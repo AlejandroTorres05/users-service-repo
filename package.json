@@ -1,0 +1,19 @@
+{
+  "name": "users-service",
+  "version": "1.0.0",
+  "description": "Microservicio de usuarios para demo API Gateway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
